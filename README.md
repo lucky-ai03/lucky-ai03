@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi! I'm Lakshi
 
-<!--
-**lucky-ai03/lucky-ai03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Electrical Engineering (3rd Year)  
+💻 Aspiring AI & Software Developer  
+🚀 Passionate about building real-world tech solutions  
 
-Here are some ideas to get you started:
+## 👩‍💻 Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- HTML & CSS
+- Git & GitHub
+- Basic Machine Learning
+- Problem Solving
+
+## 🌱 Currently Learning
+
+- Data Structures & Algorithms
+- Machine Learning
+- Web Development
+
+## 🎯 2026 Goals
+
+- Build 5+ real-world projects
+- Contribute to Open Source
+- Crack a good internship
+
+## 📫 Connect With Me
+
+🔗 GitHub: https://github.com/lucky-ai03
